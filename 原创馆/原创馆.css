@@ -1,0 +1,244 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.myzong{
+	width: 100%;
+	height: 2000px;
+}
+.head-head{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+}
+.head{
+	width: 100%;
+	margin: 0 auto;
+}
+.head-first{
+	font-size: 30px;
+	float: left;
+	margin-top: -10px;
+	margin-left: 30px;	
+    font-family: "微软雅黑";
+}
+.head-two{
+	float:right;
+}
+.head-three{
+    font-size:20px ;
+    margin-top: 20px;
+    font-family: "微软雅黑";
+	text-align: center;
+}
+.a{
+	color: #333;
+	width: 80px;
+	height: 30px;
+	font-family: "微软雅黑";
+	margin-right: 10px;
+}
+.b{
+	color: #fff;
+	width: 80px;
+	height: 30px;
+	margin-right: 40px;
+	font-family: "微软雅黑";
+	background-color: #d1b468;
+}
+/**2**/
+.mytwo{
+	width: 100%;
+	height: 550px;
+	background-repeat: no-repeat;
+	background:url(img/3243CD41A9EEED1B7634BD3CC60ACD6B.jpg)
+}
+.mytwo-one{
+	width: 100%;
+	height: 300px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 370px;
+}
+.mytwo-two{
+	width: 800px;
+	height: 100px;
+	float: left;
+	margin-top:80px ;
+	margin-left:240px ;
+}
+.mytwo-two p{
+    color: #000;
+    font-size: 16px;	
+}
+/**3**/
+.mythree{
+	width: 100%;
+	height: 370px;
+	background-color: #f9f9f9;
+}
+.mythree-one{
+	width: 1000px;
+	height: 290px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 70px;
+	background:url(img/winter_bg_1.png)
+}
+.mythree-one p{
+	text-align: center;
+	margin-top: 40px;
+	color:white
+}
+.mythree-one-a{
+	font-size: 38px;
+}
+/**4**/
+.myfour{
+	width: 100%;
+	height: 330px;
+	background-color:#f9f9f9 ;
+}
+.myfour-one{
+	width: 1000px;
+	height: 290px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 30px;
+	background:url(img/cc.png);
+}
+.myfour-one p{
+	text-align: center;
+	margin-top: 40px;
+	color:white
+}
+.myfour-one-a{
+	font-size: 38px;
+}/**5**/
+.myfive{
+	width: 100%;
+	height: 400px;
+	background-color:#f9f9f9 ;
+}
+.myfive-one{
+	width: 1000px;
+	height: 290px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 30px;
+	background:url(img/dd.png)
+}
+.myfive-one p{
+	text-align: center;
+	margin-top: 40px;
+	color:white
+}
+.myfive-one-a{
+	font-size: 38px;
+}
+/**6**/
+.mysix{
+	width: 100%;
+	height: 350px;
+	background-color: black;
+}
+.mysix-one{
+	width: 330px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 60px;
+}
+.mysix-one-a{
+	width: 154px;
+	height: 70px;
+	border:1px solid gainsboro;
+}
+.mysix-one-a p{
+    color:#fff;
+	font-size: 15px;
+	font-style: normal;
+    font-weight: 900;
+	float: left;
+	margin-top: 25px;
+	margin-left:50px ;
+}
+/****/
+.mysix-two-a{
+	width: 154px;
+	height: 70px;
+	float: left;
+	margin-left: 170px;
+	margin-top: -72px;
+	border:1px solid gainsboro;
+}
+.mysix-two-a p{
+    color: #fff;
+	font-size: 15px;
+	font-style: normal;
+    font-weight: 900;
+	float: left;
+	margin-top: 25px;
+	margin-left:50px ;
+}
+/****/
+.mysix-three-a{
+	width: 154px;
+	height: 70px;
+	float: left;
+	margin-top: 5px;
+	border:1px solid gainsboro;
+}
+.mysix-three-a p{
+    color:#fff;
+	font-size: 15px;
+	font-style: normal;
+    font-weight: 900;
+	float: left;
+	margin-top: 25px;
+	margin-left:40px ;
+}
+/****/
+.mysix-four-a{
+	width: 154px;
+	height: 70px;
+	float: left;
+	margin-left: 170px;
+	margin-top: -72px;
+	border:1px solid gainsboro;
+}
+.mysix-four-a p{
+    color: #fff;
+	font-size: 15px;
+	font-style: normal;
+    font-weight: 900;
+	float: left;
+	margin-top: 25px;
+	margin-left:40px ;
+}
+.seven{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-top: 60px;
+	margin-left: 600px;
+}
+.seven-first p{
+	color: #fff;
+	font-size: 18px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.seven-first p.qq{
+	margin-left: 230px;
+	margin-top: -140px;
+}
+.seven-first p.ww{
+	width: 800px;
+	float: right;
+	color:#fff;
+	font-size: 12px;
+	margin-right:330px ;
+	margin-top: 90px;
+}
